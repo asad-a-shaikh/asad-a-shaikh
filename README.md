@@ -12,7 +12,7 @@ Before my MSc I spent almost six years at **Atlas Copco**, delivering custom-eng
 
 ## 📂 Projects
 
-**[Truck air-system failure prediction](https://github.com/asad-a-shaikh/aps-failure-prediction)**: a model that decides which of 16,000 Scania trucks need a workshop check, with its decision threshold set on the cost of a missed failure versus a false alarm. Caught 97% of failures on held-out data.
+**[Air system failure prediction](https://github.com/asad-a-shaikh/aps-failure-prediction)**: a model that decides which of 16,000 Scania trucks need a workshop check, with its decision threshold set on the cost of a missed failure versus a false alarm. Caught 97% of failures on held-out data.
 
 ---
 
