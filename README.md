@@ -27,3 +27,4 @@ Before my MSc I spent almost six years at **Atlas Copco**, delivering custom-eng
 ## 📫 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/asad-shaikh-640b40170/)
+- [Email](mailto:shaikhasad2398@gmail.com)
